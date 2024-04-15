@@ -14,7 +14,7 @@ python3 tdata-migrate.py --mac /Users/user/Downloads/tdata
 ```bash
 git clone https://github.com/hackintoanetwork/tdata-migrater.git
 cd tdata-migrater
-python tdata-migrate.py --win C:\Users\user\Downloads\tdata
+python3 tdata-migrate.py --win C:\Users\user\Downloads\tdata
 ```
 
 # Notice
