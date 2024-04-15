@@ -1,6 +1,6 @@
 import os
-import shutil
 import sys
+import shutil
 
 def migrate_telegram_tdata_mac(new_tdata_path):
     home = os.getenv('HOME')
