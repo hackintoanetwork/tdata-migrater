@@ -3,13 +3,6 @@ Telegram Tdata Migrater
 
 # Usage
 
-```bash
-Mac : python3 tdata-migrate.py --mac <path_to_new_tdata> 
-Win : python3 tdata.py --win <path_to_new_tdata>
-```
-
-# Example
-
 ## Mac OSX 
 ```bash
 git clone https://github.com/hackintoanetwork/tdata-migrater.git
