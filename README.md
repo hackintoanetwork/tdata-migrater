@@ -3,7 +3,7 @@ Telegram Tdata Migrater
 
 # Usage
 
-## Mac OSX 
+## macOS
 ```bash
 git clone https://github.com/hackintoanetwork/tdata-migrater.git
 cd tdata-migrater
